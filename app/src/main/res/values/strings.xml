@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">imagerecog</string>
+    <string name="default_image_descriptor">Selected image for ImageRecognition</string>
+    <string name="camera_button_descriptor">Open Camera Application</string>
+    <string name="gallery_button_descriptor">Open Gallery</string>
+</resources>
